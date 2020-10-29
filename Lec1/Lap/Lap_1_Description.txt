@@ -1,0 +1,11 @@
+1) Create a batch file named HelloWorld.
+
+2) Use the developed batch script in the previous slides as your base.
+
+3) Input the text_value, output_folder and output_file as an
+argument to the batch script.
+
+4) The output_folder will be inside a directory named TXT
+
+5) Check on all batch script arguments and if any of them is empty do not do any
+operations and print invalid input to the user and exit.

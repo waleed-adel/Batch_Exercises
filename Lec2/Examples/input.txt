@@ -1,0 +1,3 @@
+awel  folder1  file1.txt
+tany  folder2  file2.txt
+talet folder3  file3.txt
